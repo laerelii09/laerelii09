@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dein hochgeladenes Foto -->
-  <img src="./profil.jpg" width="220" style="border-radius: 20px;" alt="Lara" />
+  <img src="./profil.png" width="220" style="border-radius: 20px;" alt="Lara" />
 
   <br /><br />
 

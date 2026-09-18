@@ -20,7 +20,7 @@
 ### About Me
 
 <p align="left">
-  <img align="right" src="https://media.giphy.com/media/L1R1tvI9svvIY/giphy.gif" width="170" alt="Coding GIF" />
+  <img align="right" src="./aboutme.png" width="200" style="border-radius: 30px; margin-left: 35px;" alt="Lara About Me" />
   
 📍 Bern, Switzerland 🇨🇭  
 🎓 Apprenticeship as Software Developer (IT Specialist)  

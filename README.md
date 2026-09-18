@@ -22,11 +22,11 @@
 <p align="left">
   <img align="right" src="https://media.giphy.com/media/L1R1tvI9svvIY/giphy.gif" width="170" alt="Coding GIF" />
   
-  * 📍 **Location:** Bern, Switzerland 🇨🇭  
-  * 🎓 **Education:** Apprenticeship as Software Developer (IT Specialist)  
-  * 📚 **Current Year:** 2nd Year  
-  * 💻 **Focus:** Web Development, Python & Design  
-  * ☕ **Powered by:** Coffee & good music  
+📍 Bern, Switzerland 🇨🇭  
+🎓 Apprenticeship as Software Developer (IT Specialist)  
+📚 2nd Year  
+💻 Web Development, Python & Design  
+☕ Powered by Coffee & good music  
 </p>
 
 <br clear="right" />

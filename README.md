@@ -1,14 +1,20 @@
-<div align="center">
-
-  <!-- Dein hochgeladenes Foto -->
-  <img src="./profil.png" width="220" style="border-radius: 20px;" alt="Lara" />
-
-  <br /><br />
-
-  <!-- Animierter Tipp-Text "Hallo, ich bin Lara!" -->
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=E91E63&center=true&vCenter=true&width=450&lines=Hallo%2C+ich+bin+Lara!%F0%9F%8C%B8;Willkommen+auf+meinem+Profil!" alt="Typing SVG" />
-
-</div>
+<table>
+  <tr>
+    <!-- Linke Spalte: Bild -->
+    <td width="35%" align="center" valign="middle">
+      <img src="./profil.jpg" width="100%" style="border-radius: 15px;" alt="Lara" />
+    </td>
+    
+    <td width="65%" valign="middle">
+      <!-- Animierter Text (groß) -->
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1000&color=E91E63&width=500&height=70&vCenter=true&lines=Hallo%2C+ich+bin+Lara!%F0%9F%8C%B8;Willkommen+auf+meinem+Profil!" alt="Typing SVG" />
+      
+      <br />
+      
+      <p>✨ Schön, dass du auf mein Profil gefunden hast!</p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
